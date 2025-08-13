@@ -1,0 +1,28 @@
+{
+  "name": "@omnedia/ngx-highlighter",
+  "description": "A simple component library to create text highlight effects.",
+  "version": "3.0.0",
+  "peerDependencies": {
+    "@angular/common": "^20.0.0",
+    "@angular/core": "^20.0.0",
+    "rough-notation": "^0.5.1"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "npm",
+    "text",
+    "animation",
+    "marker",
+    "highlighter",
+    "text highlight"
+  ],
+  "repository": {
+    "url": "https://github.com/omnedia/ngx-highlighter"
+  },
+  "author": "Markus Block (markus.block@omnedia.com)",
+  "license": "MIT"
+}
+
